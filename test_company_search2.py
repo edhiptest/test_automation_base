@@ -12,6 +12,9 @@ import settings
 
 
 class CompanySearch(unittest.TestCase):
+    '''
+    Testing comments, 123
+    '''
 
     logging.config.dictConfig(settings.LOGGING)
     logger = logging.getLogger(__name__)
